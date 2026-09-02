@@ -1,201 +1,201 @@
-﻿audio_path,prompt_id,speaker_id,category,text,audio_format,sample_rate_hz,channels,split
-custom/speaker_01/tamil/CUS_S01_TA001.wav,TA001,S01,tamil,எனக்கு ஒரு கார் புக் செய்ய வேண்டும்.,wav,16000,1,test
-custom/speaker_01/tamil/CUS_S01_TA002.wav,TA002,S01,tamil,நான் சென்னை சென்ட்ரல் செல்ல வேண்டும்.,wav,16000,1,test
-custom/speaker_01/tamil/CUS_S01_TA003.wav,TA003,S01,tamil,ஓட்டுநர் இன்னும் வரவில்லை.,wav,16000,1,test
-custom/speaker_01/tamil/CUS_S01_TA004.wav,TA004,S01,tamil,என் வண்டி எப்போது வரும்?,wav,16000,1,test
-custom/speaker_01/tamil/CUS_S01_TA005.wav,TA005,S01,tamil,பயணத்தை ரத்து செய்ய வேண்டும்.,wav,16000,1,test
-custom/speaker_01/tamil/CUS_S01_TA006.wav,TA006,S01,tamil,என் இருப்பிடத்திற்கு வண்டியை அனுப்புங்கள்.,wav,16000,1,test
-custom/speaker_01/tamil/CUS_S01_TA007.wav,TA007,S01,tamil,ஓட்டுநரின் தொலைபேசி எண்ணை சொல்லுங்கள்.,wav,16000,1,test
-custom/speaker_01/tamil/CUS_S01_TA008.wav,TA008,S01,tamil,நான் விமான நிலையம் செல்ல வேண்டும்.,wav,16000,1,test
-custom/speaker_01/english/CUS_S01_EN001.wav,EN001,S01,english,I would like to book a cab.,wav,16000,1,test
-custom/speaker_01/english/CUS_S01_EN002.wav,EN002,S01,english,Please send a cab to my current location.,wav,16000,1,test
-custom/speaker_01/english/CUS_S01_EN003.wav,EN003,S01,english,I need to go to Chennai Central.,wav,16000,1,test
-custom/speaker_01/english/CUS_S01_EN004.wav,EN004,S01,english,I need a cab to the airport.,wav,16000,1,test
-custom/speaker_01/english/CUS_S01_EN005.wav,EN005,S01,english,When will my driver arrive?,wav,16000,1,test
-custom/speaker_01/english/CUS_S01_EN006.wav,EN006,S01,english,My driver has not arrived yet.,wav,16000,1,test
-custom/speaker_01/english/CUS_S01_EN007.wav,EN007,S01,english,Where is my cab right now?,wav,16000,1,test
-custom/speaker_01/english/CUS_S01_EN008.wav,EN008,S01,english,Please connect me with the driver.,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG001.wav,TG001,S01,tanglish,எனக்கு ஒரு cab book பண்ணணும்.,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG002.wav,TG002,S01,tanglish,Airportக்கு ஒரு cab வேணும்.,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG003.wav,TG003,S01,tanglish,Driver இன்னும் வரல.,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG004.wav,TG004,S01,tanglish,என் cab எப்ப வரும்?,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG005.wav,TG005,S01,tanglish,Booking cancel பண்ணணும்.,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG006.wav,TG006,S01,tanglish,என் current locationக்கு cab அனுப்புங்க.,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG007.wav,TG007,S01,tanglish,Driver phone number share பண்ணுங்க.,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG008.wav,TG008,S01,tanglish,Chennai Centralக்கு போகணும்.,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG009.wav,TG009,S01,tanglish,Cab இப்ப எங்க இருக்கு?,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG010.wav,TG010,S01,tanglish,Driverக்கு call பண்ண முடியுமா?,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG011.wav,TG011,S01,tanglish,என் booking confirm ஆயிடுச்சா?,wav,16000,1,test
-custom/speaker_01/tanglish/CUS_S01_TG012.wav,TG012,S01,tanglish,Driver வர இன்னும் எவ்வளவு time ஆகும்?,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR001.wav,TR001,S01,transportation_entity,Your cab will arrive at 7:30 PM.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR002.wav,TR002,S01,transportation_entity,உங்கள் cab காலை 6:15 மணிக்கு வரும்.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR003.wav,TR003,S01,transportation_entity,Pickup time is 8:45 AM.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR004.wav,TR004,S01,transportation_entity,Driver மாலை 5:30 மணிக்கு வருவார்.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR005.wav,TR005,S01,transportation_entity,"Your ride is scheduled for September 5, 2026.",wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR006.wav,TR006,S01,transportation_entity,உங்கள் booking 05/09/2026 அன்று உள்ளது.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR007.wav,TR007,S01,transportation_entity,The estimated travel time is 45 minutes.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR008.wav,TR008,S01,transportation_entity,Driver இன்னும் 12 minutesல வந்துருவார்.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR009.wav,TR009,S01,transportation_entity,Your total fare is ₹650.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR010.wav,TR010,S01,transportation_entity,உங்கள் fare ₹450 ஆகும்.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR011.wav,TR011,S01,transportation_entity,The estimated fare is Rs 725.,wav,16000,1,test
-custom/speaker_01/entity/CUS_S01_TR012.wav,TR012,S01,transportation_entity,"Airportக்கு total fare ₹1,250 ஆகும்.",wav,16000,1,test
-custom/speaker_02/tamil/CUS_S02_TA009.wav,TA009,S02,tamil,வண்டி எங்கே இருக்கிறது?,wav,16000,1,test
-custom/speaker_02/tamil/CUS_S02_TA010.wav,TA010,S02,tamil,ஓட்டுநருடன் என்னை இணைக்க முடியுமா?,wav,16000,1,test
-custom/speaker_02/tamil/CUS_S02_TA011.wav,TA011,S02,tamil,என் பயணம் உறுதி செய்யப்பட்டதா?,wav,16000,1,test
-custom/speaker_02/tamil/CUS_S02_TA012.wav,TA012,S02,tamil,இன்னும் எவ்வளவு நேரம் ஆகும்?,wav,16000,1,test
-custom/speaker_02/tamil/CUS_S02_TA013.wav,TA013,S02,tamil,நான் பத்து நிமிடங்களாக காத்திருக்கிறேன்.,wav,16000,1,test
-custom/speaker_02/tamil/CUS_S02_TA014.wav,TA014,S02,tamil,வண்டி இன்னும் வரவில்லை.,wav,16000,1,test
-custom/speaker_02/tamil/CUS_S02_TA015.wav,TA015,S02,tamil,வேறு வண்டியை அனுப்ப முடியுமா?,wav,16000,1,test
-custom/speaker_02/tamil/CUS_S02_TA016.wav,TA016,S02,tamil,நான் செல்ல வேண்டிய இடத்தை மாற்ற வேண்டும்.,wav,16000,1,test
-custom/speaker_02/english/CUS_S02_EN009.wav,EN009,S02,english,I want to cancel my booking.,wav,16000,1,test
-custom/speaker_02/english/CUS_S02_EN010.wav,EN010,S02,english,Can you send another driver?,wav,16000,1,test
-custom/speaker_02/english/CUS_S02_EN011.wav,EN011,S02,english,I want to change my pickup location.,wav,16000,1,test
-custom/speaker_02/english/CUS_S02_EN012.wav,EN012,S02,english,I want to change my destination.,wav,16000,1,test
-custom/speaker_02/english/CUS_S02_EN013.wav,EN013,S02,english,My driver is at the wrong location.,wav,16000,1,test
-custom/speaker_02/english/CUS_S02_EN014.wav,EN014,S02,english,Please share the driver's phone number.,wav,16000,1,test
-custom/speaker_02/english/CUS_S02_EN015.wav,EN015,S02,english,Is my booking confirmed?,wav,16000,1,test
-custom/speaker_02/english/CUS_S02_EN016.wav,EN016,S02,english,How long will the driver take to arrive?,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG013.wav,TG013,S02,tanglish,நான் ten minutesஆ wait பண்ணிட்டு இருக்கேன்.,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG014.wav,TG014,S02,tanglish,வேற driver assign பண்ணுங்க.,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG015.wav,TG015,S02,tanglish,Pickup location change பண்ணணும்.,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG016.wav,TG016,S02,tanglish,Drop location change பண்ணணும்.,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG017.wav,TG017,S02,tanglish,Driver wrong locationல இருக்காரு.,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG018.wav,TG018,S02,tanglish,நான் T Nagarல wait பண்ணிட்டு இருக்கேன்.,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG019.wav,TG019,S02,tanglish,OMRக்கு cab கிடைக்குமா?,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG020.wav,TG020,S02,tanglish,Chennai Airportக்கு ride book பண்ணுங்க.,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG021.wav,TG021,S02,tanglish,Total fare எவ்வளவு வரும்?,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG022.wav,TG022,S02,tanglish,Cash payment பண்ணலாமா?,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG023.wav,TG023,S02,tanglish,UPIல payment பண்ண முடியுமா?,wav,16000,1,test
-custom/speaker_02/tanglish/CUS_S02_TG024.wav,TG024,S02,tanglish,Extra charge ஏன் add பண்ணிருக்கீங்க?,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR013.wav,TR013,S02,transportation_entity,Your fare is ₹450.50.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR014.wav,TR014,S02,transportation_entity,இந்த tripக்கு ₹85 toll charge இருக்கு.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR015.wav,TR015,S02,transportation_entity,The distance is 12.7 kilometres.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR016.wav,TR016,S02,transportation_entity,Airport இன்னும் 18.5 km distance இருக்கு.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR017.wav,TR017,S02,transportation_entity,Your destination is 6 kilometres away.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR018.wav,TR018,S02,transportation_entity,Pickup location 2.5 km away இருக்கு.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR019.wav,TR019,S02,transportation_entity,Your OTP is 4821.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR020.wav,TR020,S02,transportation_entity,உங்கள் OTP 7396.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR021.wav,TR021,S02,transportation_entity,Please tell the driver OTP 51684.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR022.wav,TR022,S02,transportation_entity,Driverக்கு OTP 904271 சொல்லுங்க.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR023.wav,TR023,S02,transportation_entity,My phone number is 9876543210.,wav,16000,1,test
-custom/speaker_02/entity/CUS_S02_TR024.wav,TR024,S02,transportation_entity,Driver phone number 9840123456.,wav,16000,1,test
-custom/speaker_03/tamil/CUS_S03_TA017.wav,TA017,S03,tamil,என்னுடைய ஏற்றுமிடத்தை மாற்ற வேண்டும்.,wav,16000,1,test
-custom/speaker_03/tamil/CUS_S03_TA018.wav,TA018,S03,tamil,நான் தி நகரில் காத்திருக்கிறேன்.,wav,16000,1,test
-custom/speaker_03/tamil/CUS_S03_TA019.wav,TA019,S03,tamil,ஓட்டுநர் தவறான இடத்திற்கு சென்றுள்ளார்.,wav,16000,1,test
-custom/speaker_03/tamil/CUS_S03_TA020.wav,TA020,S03,tamil,என்னுடைய பயண விவரங்களை சொல்லுங்கள்.,wav,16000,1,test
-custom/speaker_03/tamil/CUS_S03_TA021.wav,TA021,S03,tamil,கட்டணம் எவ்வளவு ஆகும்?,wav,16000,1,test
-custom/speaker_03/tamil/CUS_S03_TA022.wav,TA022,S03,tamil,பணமாக செலுத்தலாமா?,wav,16000,1,test
-custom/speaker_03/tamil/CUS_S03_TA023.wav,TA023,S03,tamil,இணைய வழியாக பணம் செலுத்த முடியுமா?,wav,16000,1,test
-custom/speaker_03/tamil/CUS_S03_TA024.wav,TA024,S03,tamil,பயணத்தின் மொத்த கட்டணம் என்ன?,wav,16000,1,test
-custom/speaker_03/english/CUS_S03_EN017.wav,EN017,S03,english,I have been waiting for ten minutes.,wav,16000,1,test
-custom/speaker_03/english/CUS_S03_EN018.wav,EN018,S03,english,Please ask the driver to call me.,wav,16000,1,test
-custom/speaker_03/english/CUS_S03_EN019.wav,EN019,S03,english,How much will the ride cost?,wav,16000,1,test
-custom/speaker_03/english/CUS_S03_EN020.wav,EN020,S03,english,What is the estimated fare?,wav,16000,1,test
-custom/speaker_03/english/CUS_S03_EN021.wav,EN021,S03,english,Can I pay by cash?,wav,16000,1,test
-custom/speaker_03/english/CUS_S03_EN022.wav,EN022,S03,english,Can I pay using UPI?,wav,16000,1,test
-custom/speaker_03/english/CUS_S03_EN023.wav,EN023,S03,english,Why was an additional charge added?,wav,16000,1,test
-custom/speaker_03/english/CUS_S03_EN024.wav,EN024,S03,english,Please send me the payment receipt.,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG025.wav,TG025,S03,tanglish,Payment receipt send பண்ணுங்க.,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG026.wav,TG026,S03,tanglish,Refund எப்ப கிடைக்கும்?,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG027.wav,TG027,S03,tanglish,Driver ride cancel பண்ணிட்டாரு.,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG028.wav,TG028,S03,tanglish,எனக்கு another cab வேணும்.,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG029.wav,TG029,S03,tanglish,இந்த cabல AC இருக்கா?,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG030.wav,TG030,S03,tanglish,நாங்க four passengers.,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG031.wav,TG031,S03,tanglish,எங்ககிட்ட two luggage bags இருக்கு.,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG032.wav,TG032,S03,tanglish,நான் child கூட travel பண்ணுறேன்.,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG033.wav,TG033,S03,tanglish,Driver சீக்கிரம் வர சொல்லுங்க.,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG034.wav,TG034,S03,tanglish,Routeல traffic அதிகமா இருக்கா?,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG035.wav,TG035,S03,tanglish,Alternative route எடுத்துக்க முடியுமா?,wav,16000,1,test
-custom/speaker_03/tanglish/CUS_S03_TG036.wav,TG036,S03,tanglish,Hospitalக்கு urgentஆ போகணும்.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR025.wav,TR025,S03,transportation_entity,Please call me on 9500012345.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR026.wav,TR026,S03,transportation_entity,Contact number is +91 98840 56789.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR027.wav,TR027,S03,transportation_entity,Driver number plus nine one nine eight four zero one two three four five six.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR028.wav,TR028,S03,transportation_entity,My alternate number is 044 2345 6789.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR029.wav,TR029,S03,transportation_entity,Your booking ID is CAB48291.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR030.wav,TR030,S03,transportation_entity,என் booking ID TXN74216.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR031.wav,TR031,S03,transportation_entity,Please check booking ID CHN50832.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR032.wav,TR032,S03,transportation_entity,Ride reference number is TAXI2026451.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR033.wav,TR033,S03,transportation_entity,Your vehicle number is TN-09-AB-1234.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR034.wav,TR034,S03,transportation_entity,Driver vehicle number TN-10-BX-4587.,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR035.wav,TR035,S03,transportation_entity,Cab number TN-22-CK-9045 வந்துடுச்சா?,wav,16000,1,test
-custom/speaker_03/entity/CUS_S03_TR036.wav,TR036,S03,transportation_entity,உங்கள் vehicle registration TN-01-AD-7621.,wav,16000,1,test
-custom/speaker_04/tamil/CUS_S04_TA025.wav,TA025,S04,tamil,கூடுதல் கட்டணம் ஏன் சேர்க்கப்பட்டுள்ளது?,wav,16000,1,test
-custom/speaker_04/tamil/CUS_S04_TA026.wav,TA026,S04,tamil,எனக்கு ரசீது வேண்டும்.,wav,16000,1,test
-custom/speaker_04/tamil/CUS_S04_TA027.wav,TA027,S04,tamil,என் பணம் திரும்ப கிடைக்குமா?,wav,16000,1,test
-custom/speaker_04/tamil/CUS_S04_TA028.wav,TA028,S04,tamil,ஓட்டுநர் பயணத்தை ரத்து செய்துவிட்டார்.,wav,16000,1,test
-custom/speaker_04/tamil/CUS_S04_TA029.wav,TA029,S04,tamil,நான் வேறு ஓட்டுநரை விரும்புகிறேன்.,wav,16000,1,test
-custom/speaker_04/tamil/CUS_S04_TA030.wav,TA030,S04,tamil,இந்த வண்டியில் குளிர்சாதன வசதி உள்ளதா?,wav,16000,1,test
-custom/speaker_04/tamil/CUS_S04_TA031.wav,TA031,S04,tamil,நான்கு பேர் பயணம் செய்ய வேண்டும்.,wav,16000,1,test
-custom/speaker_04/tamil/CUS_S04_TA032.wav,TA032,S04,tamil,எங்களிடம் இரண்டு பெரிய பைகள் உள்ளன.,wav,16000,1,test
-custom/speaker_04/english/CUS_S04_EN025.wav,EN025,S04,english,When will I receive my refund?,wav,16000,1,test
-custom/speaker_04/english/CUS_S04_EN026.wav,EN026,S04,english,The driver cancelled my ride.,wav,16000,1,test
-custom/speaker_04/english/CUS_S04_EN027.wav,EN027,S04,english,I need a different cab.,wav,16000,1,test
-custom/speaker_04/english/CUS_S04_EN028.wav,EN028,S04,english,Is air conditioning available in this vehicle?,wav,16000,1,test
-custom/speaker_04/english/CUS_S04_EN029.wav,EN029,S04,english,We are four passengers.,wav,16000,1,test
-custom/speaker_04/english/CUS_S04_EN030.wav,EN030,S04,english,We have two large bags.,wav,16000,1,test
-custom/speaker_04/english/CUS_S04_EN031.wav,EN031,S04,english,I am travelling with a child.,wav,16000,1,test
-custom/speaker_04/english/CUS_S04_EN032.wav,EN032,S04,english,Please ask the driver to come quickly.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG037.wav,TG037,S04,tanglish,Main gateல drop பண்ண சொல்லுங்க.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG038.wav,TG038,S04,tanglish,என் live location driverக்கு send பண்ணுங்க.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG039.wav,TG039,S04,tanglish,Driver என்னை call பண்ண சொல்லுங்க.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG040.wav,TG040,S04,tanglish,Cab வந்ததும் notification அனுப்புங்க.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG041.wav,TG041,S04,tanglish,Morning six o'clockக்கு cab book பண்ணணும்.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG042.wav,TG042,S04,tanglish,Evening seven thirtyக்கு pickup வேணும்.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG043.wav,TG043,S04,tanglish,Tomorrow airport dropக்கு cab வேணும்.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG044.wav,TG044,S04,tanglish,இன்று night cab கிடைக்குமா?,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG045.wav,TG045,S04,tanglish,Driver five minutesல வருவாரா?,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG046.wav,TG046,S04,tanglish,Pickup point Chennai Central main entrance.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG047.wav,TG047,S04,tanglish,Drop location Guindy railway station.,wav,16000,1,test
-custom/speaker_04/tanglish/CUS_S04_TG048.wav,TG048,S04,tanglish,நான் Velacheryல இருந்து airport போகணும்.,wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR037.wav,TR037,S04,transportation_entity,Pickup is at Chennai Central Platform 7.,wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR038.wav,TR038,S04,transportation_entity,நான் Platform 4ல wait பண்ணிட்டு இருக்கேன்.,wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR039.wav,TR039,S04,transportation_entity,Driver Gate 3க்கு வர சொல்லுங்க.,wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR040.wav,TR040,S04,transportation_entity,Pickup point is Airport Gate 5.,wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR041.wav,TR041,S04,transportation_entity,"Please come to No. 24, Anna Salai, Teynampet.",wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR042.wav,TR042,S04,transportation_entity,"Pickup address is 18, North Usman Road, T Nagar.",wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR043.wav,TR043,S04,transportation_entity,"Driver 42, Velachery Main Roadக்கு வரணும்.",wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR044.wav,TR044,S04,transportation_entity,"Drop me at 16, OMR, Thoraipakkam.",wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR045.wav,TR045,S04,transportation_entity,Pickup Chennai Central main entranceல இருக்கு.,wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR046.wav,TR046,S04,transportation_entity,Drop location is Chennai International Airport Terminal 2.,wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR047.wav,TR047,S04,transportation_entity,நான் Kilpauk Medical College Hospital entranceல இருக்கேன்.,wav,16000,1,test
-custom/speaker_04/entity/CUS_S04_TR048.wav,TR048,S04,transportation_entity,Driver Phoenix Marketcity gateக்கு வர சொல்லுங்க.,wav,16000,1,test
-custom/speaker_05/tamil/CUS_S05_TA033.wav,TA033,S05,tamil,குழந்தையுடன் பயணம் செய்கிறேன்.,wav,16000,1,test
-custom/speaker_05/tamil/CUS_S05_TA034.wav,TA034,S05,tamil,தயவுசெய்து வண்டியை சீக்கிரம் அனுப்புங்கள்.,wav,16000,1,test
-custom/speaker_05/tamil/CUS_S05_TA035.wav,TA035,S05,tamil,சாலையில் அதிக போக்குவரத்து இருக்கிறதா?,wav,16000,1,test
-custom/speaker_05/tamil/CUS_S05_TA036.wav,TA036,S05,tamil,மாற்று வழியில் செல்ல முடியுமா?,wav,16000,1,test
-custom/speaker_05/tamil/CUS_S05_TA037.wav,TA037,S05,tamil,நான் மருத்துவமனைக்கு செல்ல வேண்டும்.,wav,16000,1,test
-custom/speaker_05/tamil/CUS_S05_TA038.wav,TA038,S05,tamil,என்னை முக்கிய நுழைவாயிலில் இறக்குங்கள்.,wav,16000,1,test
-custom/speaker_05/tamil/CUS_S05_TA039.wav,TA039,S05,tamil,ஓட்டுநருக்கு என் இருப்பிடத்தை அனுப்புங்கள்.,wav,16000,1,test
-custom/speaker_05/tamil/CUS_S05_TA040.wav,TA040,S05,tamil,பயணம் முடிந்ததும் எனக்கு தகவல் அனுப்புங்கள்.,wav,16000,1,test
-custom/speaker_05/english/CUS_S05_EN033.wav,EN033,S05,english,Is there heavy traffic on the route?,wav,16000,1,test
-custom/speaker_05/english/CUS_S05_EN034.wav,EN034,S05,english,Can the driver take another route?,wav,16000,1,test
-custom/speaker_05/english/CUS_S05_EN035.wav,EN035,S05,english,I need to go to the hospital.,wav,16000,1,test
-custom/speaker_05/english/CUS_S05_EN036.wav,EN036,S05,english,Please drop me near the main entrance.,wav,16000,1,test
-custom/speaker_05/english/CUS_S05_EN037.wav,EN037,S05,english,Please share my location with the driver.,wav,16000,1,test
-custom/speaker_05/english/CUS_S05_EN038.wav,EN038,S05,english,I cannot find the driver.,wav,16000,1,test
-custom/speaker_05/english/CUS_S05_EN039.wav,EN039,S05,english,The cab is moving in the wrong direction.,wav,16000,1,test
-custom/speaker_05/english/CUS_S05_EN040.wav,EN040,S05,english,Please notify me when the cab arrives.,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG049.wav,TG049,S05,tanglish,Anna Nagarக்கு fare எவ்வளவு?,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG050.wav,TG050,S05,tanglish,T Nagarல இருந்து Centralக்கு cab வேணும்.,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG051.wav,TG051,S05,tanglish,Driver route change பண்ணிட்டாரு.,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG052.wav,TG052,S05,tanglish,Cab number என்னன்னு சொல்லுங்க.,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG053.wav,TG053,S05,tanglish,Booking details மறுபடியும் சொல்லுங்க.,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG054.wav,TG054,S05,tanglish,Driver name என்ன?,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG055.wav,TG055,S05,tanglish,Estimated arrival time சொல்லுங்க.,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG056.wav,TG056,S05,tanglish,Ride status check பண்ணணும்.,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG057.wav,TG057,S05,tanglish,இந்த tripக்கு toll charge இருக்கா?,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG058.wav,TG058,S05,tanglish,Peak hour charge apply ஆகுமா?,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG059.wav,TG059,S05,tanglish,என் payment successfulஆ ஆயிடுச்சா?,wav,16000,1,test
-custom/speaker_05/tanglish/CUS_S05_TG060.wav,TG060,S05,tanglish,Customer supportக்கு connect பண்ணுங்க.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR049.wav,TR049,S05,transportation_entity,Route number 21G bus stopக்குப் பக்கத்தில் இருக்கேன்.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR050.wav,TR050,S05,transportation_entity,Pick me up near Street Number 4.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR051.wav,TR051,S05,transportation_entity,Your cab is five minutes away from T Nagar.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR052.wav,TR052,S05,transportation_entity,Chennai Centralல இருந்து airport 19.4 km இருக்கு.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR053.wav,TR053,S05,transportation_entity,Your driver will arrive at 6:30 PM near Gate 2.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR054.wav,TR054,S05,transportation_entity,Booking CAB93721க்கு fare ₹875 ஆகும்.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR055.wav,TR055,S05,transportation_entity,Vehicle TN-09-CF-6723 காலை 8:20 மணிக்கு வரும்.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR056.wav,TR056,S05,transportation_entity,OTP 7315 driverக்கு சொல்லிட்டு cabல ஏறுங்க.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR057.wav,TR057,S05,transportation_entity,Phone number 98400 12345க்கு driver call பண்ணுவார்.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR058.wav,TR058,S05,transportation_entity,Airport Terminal 1க்கு 14.8 kilometres distance இருக்கு.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR059.wav,TR059,S05,transportation_entity,Your booking ID CAB65027 is confirmed for 9:15 AM.,wav,16000,1,test
-custom/speaker_05/entity/CUS_S05_TR060.wav,TR060,S05,transportation_entity,TN-22-AB-4589 cab Chennai Central Gate 4க்கு 7:45 PMல வரும்.,wav,16000,1,test
+﻿sample_id,audio_path,speaker_id,gender,language,category,prompt_id,raw_text,normalized_text,transcript
+CUS_S01_TA001,custom/speaker_01/tamil/CUS_S01_TA001.wav,S01,female,ta,tamil,TA001,எனக்கு ஒரு கார் புக் செய்ய வேண்டும்.,,
+CUS_S01_TA002,custom/speaker_01/tamil/CUS_S01_TA002.wav,S01,female,ta,tamil,TA002,நான் சென்னை சென்ட்ரல் செல்ல வேண்டும்.,,
+CUS_S01_TA003,custom/speaker_01/tamil/CUS_S01_TA003.wav,S01,female,ta,tamil,TA003,ஓட்டுநர் இன்னும் வரவில்லை.,,
+CUS_S01_TA004,custom/speaker_01/tamil/CUS_S01_TA004.wav,S01,female,ta,tamil,TA004,என் வண்டி எப்போது வரும்?,,
+CUS_S01_TA005,custom/speaker_01/tamil/CUS_S01_TA005.wav,S01,female,ta,tamil,TA005,பயணத்தை ரத்து செய்ய வேண்டும்.,,
+CUS_S01_TA006,custom/speaker_01/tamil/CUS_S01_TA006.wav,S01,female,ta,tamil,TA006,என் இருப்பிடத்திற்கு வண்டியை அனுப்புங்கள்.,,
+CUS_S01_TA007,custom/speaker_01/tamil/CUS_S01_TA007.wav,S01,female,ta,tamil,TA007,ஓட்டுநரின் தொலைபேசி எண்ணை சொல்லுங்கள்.,,
+CUS_S01_TA008,custom/speaker_01/tamil/CUS_S01_TA008.wav,S01,female,ta,tamil,TA008,நான் விமான நிலையம் செல்ல வேண்டும்.,,
+CUS_S01_EN001,custom/speaker_01/english/CUS_S01_EN001.wav,S01,female,en,english,EN001,I would like to book a cab.,,
+CUS_S01_EN002,custom/speaker_01/english/CUS_S01_EN002.wav,S01,female,en,english,EN002,Please send a cab to my current location.,,
+CUS_S01_EN003,custom/speaker_01/english/CUS_S01_EN003.wav,S01,female,en,english,EN003,I need to go to Chennai Central.,,
+CUS_S01_EN004,custom/speaker_01/english/CUS_S01_EN004.wav,S01,female,en,english,EN004,I need a cab to the airport.,,
+CUS_S01_EN005,custom/speaker_01/english/CUS_S01_EN005.wav,S01,female,en,english,EN005,When will my driver arrive?,,
+CUS_S01_EN006,custom/speaker_01/english/CUS_S01_EN006.wav,S01,female,en,english,EN006,My driver has not arrived yet.,,
+CUS_S01_EN007,custom/speaker_01/english/CUS_S01_EN007.wav,S01,female,en,english,EN007,Where is my cab right now?,,
+CUS_S01_EN008,custom/speaker_01/english/CUS_S01_EN008.wav,S01,female,en,english,EN008,Please connect me with the driver.,,
+CUS_S01_TG001,custom/speaker_01/tanglish/CUS_S01_TG001.wav,S01,female,ta-en,tanglish,TG001,எனக்கு ஒரு cab book பண்ணணும்.,,
+CUS_S01_TG002,custom/speaker_01/tanglish/CUS_S01_TG002.wav,S01,female,ta-en,tanglish,TG002,Airportக்கு ஒரு cab வேணும்.,,
+CUS_S01_TG003,custom/speaker_01/tanglish/CUS_S01_TG003.wav,S01,female,ta-en,tanglish,TG003,Driver இன்னும் வரல.,,
+CUS_S01_TG004,custom/speaker_01/tanglish/CUS_S01_TG004.wav,S01,female,ta-en,tanglish,TG004,என் cab எப்ப வரும்?,,
+CUS_S01_TG005,custom/speaker_01/tanglish/CUS_S01_TG005.wav,S01,female,ta-en,tanglish,TG005,Booking cancel பண்ணணும்.,,
+CUS_S01_TG006,custom/speaker_01/tanglish/CUS_S01_TG006.wav,S01,female,ta-en,tanglish,TG006,என் current locationக்கு cab அனுப்புங்க.,,
+CUS_S01_TG007,custom/speaker_01/tanglish/CUS_S01_TG007.wav,S01,female,ta-en,tanglish,TG007,Driver phone number share பண்ணுங்க.,,
+CUS_S01_TG008,custom/speaker_01/tanglish/CUS_S01_TG008.wav,S01,female,ta-en,tanglish,TG008,Chennai Centralக்கு போகணும்.,,
+CUS_S01_TG009,custom/speaker_01/tanglish/CUS_S01_TG009.wav,S01,female,ta-en,tanglish,TG009,Cab இப்ப எங்க இருக்கு?,,
+CUS_S01_TG010,custom/speaker_01/tanglish/CUS_S01_TG010.wav,S01,female,ta-en,tanglish,TG010,Driverக்கு call பண்ண முடியுமா?,,
+CUS_S01_TG011,custom/speaker_01/tanglish/CUS_S01_TG011.wav,S01,female,ta-en,tanglish,TG011,என் booking confirm ஆயிடுச்சா?,,
+CUS_S01_TG012,custom/speaker_01/tanglish/CUS_S01_TG012.wav,S01,female,ta-en,tanglish,TG012,Driver வர இன்னும் எவ்வளவு time ஆகும்?,,
+CUS_S01_TR001,custom/speaker_01/entity/CUS_S01_TR001.wav,S01,female,en,transportation_entity,TR001,Your cab will arrive at 7:30 PM.,,
+CUS_S01_TR002,custom/speaker_01/entity/CUS_S01_TR002.wav,S01,female,ta-en,transportation_entity,TR002,உங்கள் cab காலை 6:15 மணிக்கு வரும்.,,
+CUS_S01_TR003,custom/speaker_01/entity/CUS_S01_TR003.wav,S01,female,en,transportation_entity,TR003,Pickup time is 8:45 AM.,,
+CUS_S01_TR004,custom/speaker_01/entity/CUS_S01_TR004.wav,S01,female,ta-en,transportation_entity,TR004,Driver மாலை 5:30 மணிக்கு வருவார்.,,
+CUS_S01_TR005,custom/speaker_01/entity/CUS_S01_TR005.wav,S01,female,en,transportation_entity,TR005,"Your ride is scheduled for September 5, 2026.",,
+CUS_S01_TR006,custom/speaker_01/entity/CUS_S01_TR006.wav,S01,female,ta-en,transportation_entity,TR006,உங்கள் booking 05/09/2026 அன்று உள்ளது.,,
+CUS_S01_TR007,custom/speaker_01/entity/CUS_S01_TR007.wav,S01,female,en,transportation_entity,TR007,The estimated travel time is 45 minutes.,,
+CUS_S01_TR008,custom/speaker_01/entity/CUS_S01_TR008.wav,S01,female,ta-en,transportation_entity,TR008,Driver இன்னும் 12 minutesல வந்துருவார்.,,
+CUS_S01_TR009,custom/speaker_01/entity/CUS_S01_TR009.wav,S01,female,en,transportation_entity,TR009,Your total fare is ₹650.,,
+CUS_S01_TR010,custom/speaker_01/entity/CUS_S01_TR010.wav,S01,female,ta-en,transportation_entity,TR010,உங்கள் fare ₹450 ஆகும்.,,
+CUS_S01_TR011,custom/speaker_01/entity/CUS_S01_TR011.wav,S01,female,en,transportation_entity,TR011,The estimated fare is Rs 725.,,
+CUS_S01_TR012,custom/speaker_01/entity/CUS_S01_TR012.wav,S01,female,ta-en,transportation_entity,TR012,"Airportக்கு total fare ₹1,250 ஆகும்.",,
+CUS_S02_TA009,custom/speaker_02/tamil/CUS_S02_TA009.wav,S02,male,ta,tamil,TA009,வண்டி எங்கே இருக்கிறது?,,
+CUS_S02_TA010,custom/speaker_02/tamil/CUS_S02_TA010.wav,S02,male,ta,tamil,TA010,ஓட்டுநருடன் என்னை இணைக்க முடியுமா?,,
+CUS_S02_TA011,custom/speaker_02/tamil/CUS_S02_TA011.wav,S02,male,ta,tamil,TA011,என் பயணம் உறுதி செய்யப்பட்டதா?,,
+CUS_S02_TA012,custom/speaker_02/tamil/CUS_S02_TA012.wav,S02,male,ta,tamil,TA012,இன்னும் எவ்வளவு நேரம் ஆகும்?,,
+CUS_S02_TA013,custom/speaker_02/tamil/CUS_S02_TA013.wav,S02,male,ta,tamil,TA013,நான் பத்து நிமிடங்களாக காத்திருக்கிறேன்.,,
+CUS_S02_TA014,custom/speaker_02/tamil/CUS_S02_TA014.wav,S02,male,ta,tamil,TA014,வண்டி இன்னும் வரவில்லை.,,
+CUS_S02_TA015,custom/speaker_02/tamil/CUS_S02_TA015.wav,S02,male,ta,tamil,TA015,வேறு வண்டியை அனுப்ப முடியுமா?,,
+CUS_S02_TA016,custom/speaker_02/tamil/CUS_S02_TA016.wav,S02,male,ta,tamil,TA016,நான் செல்ல வேண்டிய இடத்தை மாற்ற வேண்டும்.,,
+CUS_S02_EN009,custom/speaker_02/english/CUS_S02_EN009.wav,S02,male,en,english,EN009,I want to cancel my booking.,,
+CUS_S02_EN010,custom/speaker_02/english/CUS_S02_EN010.wav,S02,male,en,english,EN010,Can you send another driver?,,
+CUS_S02_EN011,custom/speaker_02/english/CUS_S02_EN011.wav,S02,male,en,english,EN011,I want to change my pickup location.,,
+CUS_S02_EN012,custom/speaker_02/english/CUS_S02_EN012.wav,S02,male,en,english,EN012,I want to change my destination.,,
+CUS_S02_EN013,custom/speaker_02/english/CUS_S02_EN013.wav,S02,male,en,english,EN013,My driver is at the wrong location.,,
+CUS_S02_EN014,custom/speaker_02/english/CUS_S02_EN014.wav,S02,male,en,english,EN014,Please share the driver's phone number.,,
+CUS_S02_EN015,custom/speaker_02/english/CUS_S02_EN015.wav,S02,male,en,english,EN015,Is my booking confirmed?,,
+CUS_S02_EN016,custom/speaker_02/english/CUS_S02_EN016.wav,S02,male,en,english,EN016,How long will the driver take to arrive?,,
+CUS_S02_TG013,custom/speaker_02/tanglish/CUS_S02_TG013.wav,S02,male,ta-en,tanglish,TG013,நான் ten minutesஆ wait பண்ணிட்டு இருக்கேன்.,,
+CUS_S02_TG014,custom/speaker_02/tanglish/CUS_S02_TG014.wav,S02,male,ta-en,tanglish,TG014,வேற driver assign பண்ணுங்க.,,
+CUS_S02_TG015,custom/speaker_02/tanglish/CUS_S02_TG015.wav,S02,male,ta-en,tanglish,TG015,Pickup location change பண்ணணும்.,,
+CUS_S02_TG016,custom/speaker_02/tanglish/CUS_S02_TG016.wav,S02,male,ta-en,tanglish,TG016,Drop location change பண்ணணும்.,,
+CUS_S02_TG017,custom/speaker_02/tanglish/CUS_S02_TG017.wav,S02,male,ta-en,tanglish,TG017,Driver wrong locationல இருக்காரு.,,
+CUS_S02_TG018,custom/speaker_02/tanglish/CUS_S02_TG018.wav,S02,male,ta-en,tanglish,TG018,நான் T Nagarல wait பண்ணிட்டு இருக்கேன்.,,
+CUS_S02_TG019,custom/speaker_02/tanglish/CUS_S02_TG019.wav,S02,male,ta-en,tanglish,TG019,OMRக்கு cab கிடைக்குமா?,,
+CUS_S02_TG020,custom/speaker_02/tanglish/CUS_S02_TG020.wav,S02,male,ta-en,tanglish,TG020,Chennai Airportக்கு ride book பண்ணுங்க.,,
+CUS_S02_TG021,custom/speaker_02/tanglish/CUS_S02_TG021.wav,S02,male,ta-en,tanglish,TG021,Total fare எவ்வளவு வரும்?,,
+CUS_S02_TG022,custom/speaker_02/tanglish/CUS_S02_TG022.wav,S02,male,ta-en,tanglish,TG022,Cash payment பண்ணலாமா?,,
+CUS_S02_TG023,custom/speaker_02/tanglish/CUS_S02_TG023.wav,S02,male,ta-en,tanglish,TG023,UPIல payment பண்ண முடியுமா?,,
+CUS_S02_TG024,custom/speaker_02/tanglish/CUS_S02_TG024.wav,S02,male,ta-en,tanglish,TG024,Extra charge ஏன் add பண்ணிருக்கீங்க?,,
+CUS_S02_TR013,custom/speaker_02/entity/CUS_S02_TR013.wav,S02,male,en,transportation_entity,TR013,Your fare is ₹450.50.,,
+CUS_S02_TR014,custom/speaker_02/entity/CUS_S02_TR014.wav,S02,male,ta-en,transportation_entity,TR014,இந்த tripக்கு ₹85 toll charge இருக்கு.,,
+CUS_S02_TR015,custom/speaker_02/entity/CUS_S02_TR015.wav,S02,male,en,transportation_entity,TR015,The distance is 12.7 kilometres.,,
+CUS_S02_TR016,custom/speaker_02/entity/CUS_S02_TR016.wav,S02,male,ta-en,transportation_entity,TR016,Airport இன்னும் 18.5 km distance இருக்கு.,,
+CUS_S02_TR017,custom/speaker_02/entity/CUS_S02_TR017.wav,S02,male,en,transportation_entity,TR017,Your destination is 6 kilometres away.,,
+CUS_S02_TR018,custom/speaker_02/entity/CUS_S02_TR018.wav,S02,male,ta-en,transportation_entity,TR018,Pickup location 2.5 km away இருக்கு.,,
+CUS_S02_TR019,custom/speaker_02/entity/CUS_S02_TR019.wav,S02,male,en,transportation_entity,TR019,Your OTP is 4821.,,
+CUS_S02_TR020,custom/speaker_02/entity/CUS_S02_TR020.wav,S02,male,ta-en,transportation_entity,TR020,உங்கள் OTP 7396.,,
+CUS_S02_TR021,custom/speaker_02/entity/CUS_S02_TR021.wav,S02,male,en,transportation_entity,TR021,Please tell the driver OTP 51684.,,
+CUS_S02_TR022,custom/speaker_02/entity/CUS_S02_TR022.wav,S02,male,ta-en,transportation_entity,TR022,Driverக்கு OTP 904271 சொல்லுங்க.,,
+CUS_S02_TR023,custom/speaker_02/entity/CUS_S02_TR023.wav,S02,male,en,transportation_entity,TR023,My phone number is 9876543210.,,
+CUS_S02_TR024,custom/speaker_02/entity/CUS_S02_TR024.wav,S02,male,en,transportation_entity,TR024,Driver phone number 9840123456.,,
+CUS_S03_TA017,custom/speaker_03/tamil/CUS_S03_TA017.wav,S03,female,ta,tamil,TA017,என்னுடைய ஏற்றுமிடத்தை மாற்ற வேண்டும்.,,
+CUS_S03_TA018,custom/speaker_03/tamil/CUS_S03_TA018.wav,S03,female,ta,tamil,TA018,நான் தி நகரில் காத்திருக்கிறேன்.,,
+CUS_S03_TA019,custom/speaker_03/tamil/CUS_S03_TA019.wav,S03,female,ta,tamil,TA019,ஓட்டுநர் தவறான இடத்திற்கு சென்றுள்ளார்.,,
+CUS_S03_TA020,custom/speaker_03/tamil/CUS_S03_TA020.wav,S03,female,ta,tamil,TA020,என்னுடைய பயண விவரங்களை சொல்லுங்கள்.,,
+CUS_S03_TA021,custom/speaker_03/tamil/CUS_S03_TA021.wav,S03,female,ta,tamil,TA021,கட்டணம் எவ்வளவு ஆகும்?,,
+CUS_S03_TA022,custom/speaker_03/tamil/CUS_S03_TA022.wav,S03,female,ta,tamil,TA022,பணமாக செலுத்தலாமா?,,
+CUS_S03_TA023,custom/speaker_03/tamil/CUS_S03_TA023.wav,S03,female,ta,tamil,TA023,இணைய வழியாக பணம் செலுத்த முடியுமா?,,
+CUS_S03_TA024,custom/speaker_03/tamil/CUS_S03_TA024.wav,S03,female,ta,tamil,TA024,பயணத்தின் மொத்த கட்டணம் என்ன?,,
+CUS_S03_EN017,custom/speaker_03/english/CUS_S03_EN017.wav,S03,female,en,english,EN017,I have been waiting for ten minutes.,,
+CUS_S03_EN018,custom/speaker_03/english/CUS_S03_EN018.wav,S03,female,en,english,EN018,Please ask the driver to call me.,,
+CUS_S03_EN019,custom/speaker_03/english/CUS_S03_EN019.wav,S03,female,en,english,EN019,How much will the ride cost?,,
+CUS_S03_EN020,custom/speaker_03/english/CUS_S03_EN020.wav,S03,female,en,english,EN020,What is the estimated fare?,,
+CUS_S03_EN021,custom/speaker_03/english/CUS_S03_EN021.wav,S03,female,en,english,EN021,Can I pay by cash?,,
+CUS_S03_EN022,custom/speaker_03/english/CUS_S03_EN022.wav,S03,female,en,english,EN022,Can I pay using UPI?,,
+CUS_S03_EN023,custom/speaker_03/english/CUS_S03_EN023.wav,S03,female,en,english,EN023,Why was an additional charge added?,,
+CUS_S03_EN024,custom/speaker_03/english/CUS_S03_EN024.wav,S03,female,en,english,EN024,Please send me the payment receipt.,,
+CUS_S03_TG025,custom/speaker_03/tanglish/CUS_S03_TG025.wav,S03,female,ta-en,tanglish,TG025,Payment receipt send பண்ணுங்க.,,
+CUS_S03_TG026,custom/speaker_03/tanglish/CUS_S03_TG026.wav,S03,female,ta-en,tanglish,TG026,Refund எப்ப கிடைக்கும்?,,
+CUS_S03_TG027,custom/speaker_03/tanglish/CUS_S03_TG027.wav,S03,female,ta-en,tanglish,TG027,Driver ride cancel பண்ணிட்டாரு.,,
+CUS_S03_TG028,custom/speaker_03/tanglish/CUS_S03_TG028.wav,S03,female,ta-en,tanglish,TG028,எனக்கு another cab வேணும்.,,
+CUS_S03_TG029,custom/speaker_03/tanglish/CUS_S03_TG029.wav,S03,female,ta-en,tanglish,TG029,இந்த cabல AC இருக்கா?,,
+CUS_S03_TG030,custom/speaker_03/tanglish/CUS_S03_TG030.wav,S03,female,ta-en,tanglish,TG030,நாங்க four passengers.,,
+CUS_S03_TG031,custom/speaker_03/tanglish/CUS_S03_TG031.wav,S03,female,ta-en,tanglish,TG031,எங்ககிட்ட two luggage bags இருக்கு.,,
+CUS_S03_TG032,custom/speaker_03/tanglish/CUS_S03_TG032.wav,S03,female,ta-en,tanglish,TG032,நான் child கூட travel பண்ணுறேன்.,,
+CUS_S03_TG033,custom/speaker_03/tanglish/CUS_S03_TG033.wav,S03,female,ta-en,tanglish,TG033,Driver சீக்கிரம் வர சொல்லுங்க.,,
+CUS_S03_TG034,custom/speaker_03/tanglish/CUS_S03_TG034.wav,S03,female,ta-en,tanglish,TG034,Routeல traffic அதிகமா இருக்கா?,,
+CUS_S03_TG035,custom/speaker_03/tanglish/CUS_S03_TG035.wav,S03,female,ta-en,tanglish,TG035,Alternative route எடுத்துக்க முடியுமா?,,
+CUS_S03_TG036,custom/speaker_03/tanglish/CUS_S03_TG036.wav,S03,female,ta-en,tanglish,TG036,Hospitalக்கு urgentஆ போகணும்.,,
+CUS_S03_TR025,custom/speaker_03/entity/CUS_S03_TR025.wav,S03,female,en,transportation_entity,TR025,Please call me on 9500012345.,,
+CUS_S03_TR026,custom/speaker_03/entity/CUS_S03_TR026.wav,S03,female,en,transportation_entity,TR026,Contact number is +91 98840 56789.,,
+CUS_S03_TR027,custom/speaker_03/entity/CUS_S03_TR027.wav,S03,female,en,transportation_entity,TR027,Driver number plus nine one nine eight four zero one two three four five six.,,
+CUS_S03_TR028,custom/speaker_03/entity/CUS_S03_TR028.wav,S03,female,en,transportation_entity,TR028,My alternate number is 044 2345 6789.,,
+CUS_S03_TR029,custom/speaker_03/entity/CUS_S03_TR029.wav,S03,female,en,transportation_entity,TR029,Your booking ID is CAB48291.,,
+CUS_S03_TR030,custom/speaker_03/entity/CUS_S03_TR030.wav,S03,female,ta-en,transportation_entity,TR030,என் booking ID TXN74216.,,
+CUS_S03_TR031,custom/speaker_03/entity/CUS_S03_TR031.wav,S03,female,en,transportation_entity,TR031,Please check booking ID CHN50832.,,
+CUS_S03_TR032,custom/speaker_03/entity/CUS_S03_TR032.wav,S03,female,en,transportation_entity,TR032,Ride reference number is TAXI2026451.,,
+CUS_S03_TR033,custom/speaker_03/entity/CUS_S03_TR033.wav,S03,female,en,transportation_entity,TR033,Your vehicle number is TN-09-AB-1234.,,
+CUS_S03_TR034,custom/speaker_03/entity/CUS_S03_TR034.wav,S03,female,en,transportation_entity,TR034,Driver vehicle number TN-10-BX-4587.,,
+CUS_S03_TR035,custom/speaker_03/entity/CUS_S03_TR035.wav,S03,female,ta-en,transportation_entity,TR035,Cab number TN-22-CK-9045 வந்துடுச்சா?,,
+CUS_S03_TR036,custom/speaker_03/entity/CUS_S03_TR036.wav,S03,female,ta-en,transportation_entity,TR036,உங்கள் vehicle registration TN-01-AD-7621.,,
+CUS_S04_TA025,custom/speaker_04/tamil/CUS_S04_TA025.wav,S04,female,ta,tamil,TA025,கூடுதல் கட்டணம் ஏன் சேர்க்கப்பட்டுள்ளது?,,
+CUS_S04_TA026,custom/speaker_04/tamil/CUS_S04_TA026.wav,S04,female,ta,tamil,TA026,எனக்கு ரசீது வேண்டும்.,,
+CUS_S04_TA027,custom/speaker_04/tamil/CUS_S04_TA027.wav,S04,female,ta,tamil,TA027,என் பணம் திரும்ப கிடைக்குமா?,,
+CUS_S04_TA028,custom/speaker_04/tamil/CUS_S04_TA028.wav,S04,female,ta,tamil,TA028,ஓட்டுநர் பயணத்தை ரத்து செய்துவிட்டார்.,,
+CUS_S04_TA029,custom/speaker_04/tamil/CUS_S04_TA029.wav,S04,female,ta,tamil,TA029,நான் வேறு ஓட்டுநரை விரும்புகிறேன்.,,
+CUS_S04_TA030,custom/speaker_04/tamil/CUS_S04_TA030.wav,S04,female,ta,tamil,TA030,இந்த வண்டியில் குளிர்சாதன வசதி உள்ளதா?,,
+CUS_S04_TA031,custom/speaker_04/tamil/CUS_S04_TA031.wav,S04,female,ta,tamil,TA031,நான்கு பேர் பயணம் செய்ய வேண்டும்.,,
+CUS_S04_TA032,custom/speaker_04/tamil/CUS_S04_TA032.wav,S04,female,ta,tamil,TA032,எங்களிடம் இரண்டு பெரிய பைகள் உள்ளன.,,
+CUS_S04_EN025,custom/speaker_04/english/CUS_S04_EN025.wav,S04,female,en,english,EN025,When will I receive my refund?,,
+CUS_S04_EN026,custom/speaker_04/english/CUS_S04_EN026.wav,S04,female,en,english,EN026,The driver cancelled my ride.,,
+CUS_S04_EN027,custom/speaker_04/english/CUS_S04_EN027.wav,S04,female,en,english,EN027,I need a different cab.,,
+CUS_S04_EN028,custom/speaker_04/english/CUS_S04_EN028.wav,S04,female,en,english,EN028,Is air conditioning available in this vehicle?,,
+CUS_S04_EN029,custom/speaker_04/english/CUS_S04_EN029.wav,S04,female,en,english,EN029,We are four passengers.,,
+CUS_S04_EN030,custom/speaker_04/english/CUS_S04_EN030.wav,S04,female,en,english,EN030,We have two large bags.,,
+CUS_S04_EN031,custom/speaker_04/english/CUS_S04_EN031.wav,S04,female,en,english,EN031,I am travelling with a child.,,
+CUS_S04_EN032,custom/speaker_04/english/CUS_S04_EN032.wav,S04,female,en,english,EN032,Please ask the driver to come quickly.,,
+CUS_S04_TG037,custom/speaker_04/tanglish/CUS_S04_TG037.wav,S04,female,ta-en,tanglish,TG037,Main gateல drop பண்ண சொல்லுங்க.,,
+CUS_S04_TG038,custom/speaker_04/tanglish/CUS_S04_TG038.wav,S04,female,ta-en,tanglish,TG038,என் live location driverக்கு send பண்ணுங்க.,,
+CUS_S04_TG039,custom/speaker_04/tanglish/CUS_S04_TG039.wav,S04,female,ta-en,tanglish,TG039,Driver என்னை call பண்ண சொல்லுங்க.,,
+CUS_S04_TG040,custom/speaker_04/tanglish/CUS_S04_TG040.wav,S04,female,ta-en,tanglish,TG040,Cab வந்ததும் notification அனுப்புங்க.,,
+CUS_S04_TG041,custom/speaker_04/tanglish/CUS_S04_TG041.wav,S04,female,ta-en,tanglish,TG041,Morning six o'clockக்கு cab book பண்ணணும்.,,
+CUS_S04_TG042,custom/speaker_04/tanglish/CUS_S04_TG042.wav,S04,female,ta-en,tanglish,TG042,Evening seven thirtyக்கு pickup வேணும்.,,
+CUS_S04_TG043,custom/speaker_04/tanglish/CUS_S04_TG043.wav,S04,female,ta-en,tanglish,TG043,Tomorrow airport dropக்கு cab வேணும்.,,
+CUS_S04_TG044,custom/speaker_04/tanglish/CUS_S04_TG044.wav,S04,female,ta-en,tanglish,TG044,இன்று night cab கிடைக்குமா?,,
+CUS_S04_TG045,custom/speaker_04/tanglish/CUS_S04_TG045.wav,S04,female,ta-en,tanglish,TG045,Driver five minutesல வருவாரா?,,
+CUS_S04_TG046,custom/speaker_04/tanglish/CUS_S04_TG046.wav,S04,female,ta-en,tanglish,TG046,Pickup point Chennai Central main entrance.,,
+CUS_S04_TG047,custom/speaker_04/tanglish/CUS_S04_TG047.wav,S04,female,ta-en,tanglish,TG047,Drop location Guindy railway station.,,
+CUS_S04_TG048,custom/speaker_04/tanglish/CUS_S04_TG048.wav,S04,female,ta-en,tanglish,TG048,நான் Velacheryல இருந்து airport போகணும்.,,
+CUS_S04_TR037,custom/speaker_04/entity/CUS_S04_TR037.wav,S04,female,en,transportation_entity,TR037,Pickup is at Chennai Central Platform 7.,,
+CUS_S04_TR038,custom/speaker_04/entity/CUS_S04_TR038.wav,S04,female,ta-en,transportation_entity,TR038,நான் Platform 4ல wait பண்ணிட்டு இருக்கேன்.,,
+CUS_S04_TR039,custom/speaker_04/entity/CUS_S04_TR039.wav,S04,female,ta-en,transportation_entity,TR039,Driver Gate 3க்கு வர சொல்லுங்க.,,
+CUS_S04_TR040,custom/speaker_04/entity/CUS_S04_TR040.wav,S04,female,en,transportation_entity,TR040,Pickup point is Airport Gate 5.,,
+CUS_S04_TR041,custom/speaker_04/entity/CUS_S04_TR041.wav,S04,female,en,transportation_entity,TR041,"Please come to No. 24, Anna Salai, Teynampet.",,
+CUS_S04_TR042,custom/speaker_04/entity/CUS_S04_TR042.wav,S04,female,en,transportation_entity,TR042,"Pickup address is 18, North Usman Road, T Nagar.",,
+CUS_S04_TR043,custom/speaker_04/entity/CUS_S04_TR043.wav,S04,female,ta-en,transportation_entity,TR043,"Driver 42, Velachery Main Roadக்கு வரணும்.",,
+CUS_S04_TR044,custom/speaker_04/entity/CUS_S04_TR044.wav,S04,female,en,transportation_entity,TR044,"Drop me at 16, OMR, Thoraipakkam.",,
+CUS_S04_TR045,custom/speaker_04/entity/CUS_S04_TR045.wav,S04,female,ta-en,transportation_entity,TR045,Pickup Chennai Central main entranceல இருக்கு.,,
+CUS_S04_TR046,custom/speaker_04/entity/CUS_S04_TR046.wav,S04,female,en,transportation_entity,TR046,Drop location is Chennai International Airport Terminal 2.,,
+CUS_S04_TR047,custom/speaker_04/entity/CUS_S04_TR047.wav,S04,female,ta-en,transportation_entity,TR047,நான் Kilpauk Medical College Hospital entranceல இருக்கேன்.,,
+CUS_S04_TR048,custom/speaker_04/entity/CUS_S04_TR048.wav,S04,female,ta-en,transportation_entity,TR048,Driver Phoenix Marketcity gateக்கு வர சொல்லுங்க.,,
+CUS_S05_TA033,custom/speaker_05/tamil/CUS_S05_TA033.wav,S05,female,ta,tamil,TA033,குழந்தையுடன் பயணம் செய்கிறேன்.,,
+CUS_S05_TA034,custom/speaker_05/tamil/CUS_S05_TA034.wav,S05,female,ta,tamil,TA034,தயவுசெய்து வண்டியை சீக்கிரம் அனுப்புங்கள்.,,
+CUS_S05_TA035,custom/speaker_05/tamil/CUS_S05_TA035.wav,S05,female,ta,tamil,TA035,சாலையில் அதிக போக்குவரத்து இருக்கிறதா?,,
+CUS_S05_TA036,custom/speaker_05/tamil/CUS_S05_TA036.wav,S05,female,ta,tamil,TA036,மாற்று வழியில் செல்ல முடியுமா?,,
+CUS_S05_TA037,custom/speaker_05/tamil/CUS_S05_TA037.wav,S05,female,ta,tamil,TA037,நான் மருத்துவமனைக்கு செல்ல வேண்டும்.,,
+CUS_S05_TA038,custom/speaker_05/tamil/CUS_S05_TA038.wav,S05,female,ta,tamil,TA038,என்னை முக்கிய நுழைவாயிலில் இறக்குங்கள்.,,
+CUS_S05_TA039,custom/speaker_05/tamil/CUS_S05_TA039.wav,S05,female,ta,tamil,TA039,ஓட்டுநருக்கு என் இருப்பிடத்தை அனுப்புங்கள்.,,
+CUS_S05_TA040,custom/speaker_05/tamil/CUS_S05_TA040.wav,S05,female,ta,tamil,TA040,பயணம் முடிந்ததும் எனக்கு தகவல் அனுப்புங்கள்.,,
+CUS_S05_EN033,custom/speaker_05/english/CUS_S05_EN033.wav,S05,female,en,english,EN033,Is there heavy traffic on the route?,,
+CUS_S05_EN034,custom/speaker_05/english/CUS_S05_EN034.wav,S05,female,en,english,EN034,Can the driver take another route?,,
+CUS_S05_EN035,custom/speaker_05/english/CUS_S05_EN035.wav,S05,female,en,english,EN035,I need to go to the hospital.,,
+CUS_S05_EN036,custom/speaker_05/english/CUS_S05_EN036.wav,S05,female,en,english,EN036,Please drop me near the main entrance.,,
+CUS_S05_EN037,custom/speaker_05/english/CUS_S05_EN037.wav,S05,female,en,english,EN037,Please share my location with the driver.,,
+CUS_S05_EN038,custom/speaker_05/english/CUS_S05_EN038.wav,S05,female,en,english,EN038,I cannot find the driver.,,
+CUS_S05_EN039,custom/speaker_05/english/CUS_S05_EN039.wav,S05,female,en,english,EN039,The cab is moving in the wrong direction.,,
+CUS_S05_EN040,custom/speaker_05/english/CUS_S05_EN040.wav,S05,female,en,english,EN040,Please notify me when the cab arrives.,,
+CUS_S05_TG049,custom/speaker_05/tanglish/CUS_S05_TG049.wav,S05,female,ta-en,tanglish,TG049,Anna Nagarக்கு fare எவ்வளவு?,,
+CUS_S05_TG050,custom/speaker_05/tanglish/CUS_S05_TG050.wav,S05,female,ta-en,tanglish,TG050,T Nagarல இருந்து Centralக்கு cab வேணும்.,,
+CUS_S05_TG051,custom/speaker_05/tanglish/CUS_S05_TG051.wav,S05,female,ta-en,tanglish,TG051,Driver route change பண்ணிட்டாரு.,,
+CUS_S05_TG052,custom/speaker_05/tanglish/CUS_S05_TG052.wav,S05,female,ta-en,tanglish,TG052,Cab number என்னன்னு சொல்லுங்க.,,
+CUS_S05_TG053,custom/speaker_05/tanglish/CUS_S05_TG053.wav,S05,female,ta-en,tanglish,TG053,Booking details மறுபடியும் சொல்லுங்க.,,
+CUS_S05_TG054,custom/speaker_05/tanglish/CUS_S05_TG054.wav,S05,female,ta-en,tanglish,TG054,Driver name என்ன?,,
+CUS_S05_TG055,custom/speaker_05/tanglish/CUS_S05_TG055.wav,S05,female,ta-en,tanglish,TG055,Estimated arrival time சொல்லுங்க.,,
+CUS_S05_TG056,custom/speaker_05/tanglish/CUS_S05_TG056.wav,S05,female,ta-en,tanglish,TG056,Ride status check பண்ணணும்.,,
+CUS_S05_TG057,custom/speaker_05/tanglish/CUS_S05_TG057.wav,S05,female,ta-en,tanglish,TG057,இந்த tripக்கு toll charge இருக்கா?,,
+CUS_S05_TG058,custom/speaker_05/tanglish/CUS_S05_TG058.wav,S05,female,ta-en,tanglish,TG058,Peak hour charge apply ஆகுமா?,,
+CUS_S05_TG059,custom/speaker_05/tanglish/CUS_S05_TG059.wav,S05,female,ta-en,tanglish,TG059,என் payment successfulஆ ஆயிடுச்சா?,,
+CUS_S05_TG060,custom/speaker_05/tanglish/CUS_S05_TG060.wav,S05,female,ta-en,tanglish,TG060,Customer supportக்கு connect பண்ணுங்க.,,
+CUS_S05_TR049,custom/speaker_05/entity/CUS_S05_TR049.wav,S05,female,ta-en,transportation_entity,TR049,Route number 21G bus stopக்குப் பக்கத்தில் இருக்கேன்.,,
+CUS_S05_TR050,custom/speaker_05/entity/CUS_S05_TR050.wav,S05,female,en,transportation_entity,TR050,Pick me up near Street Number 4.,,
+CUS_S05_TR051,custom/speaker_05/entity/CUS_S05_TR051.wav,S05,female,en,transportation_entity,TR051,Your cab is five minutes away from T Nagar.,,
+CUS_S05_TR052,custom/speaker_05/entity/CUS_S05_TR052.wav,S05,female,ta-en,transportation_entity,TR052,Chennai Centralல இருந்து airport 19.4 km இருக்கு.,,
+CUS_S05_TR053,custom/speaker_05/entity/CUS_S05_TR053.wav,S05,female,en,transportation_entity,TR053,Your driver will arrive at 6:30 PM near Gate 2.,,
+CUS_S05_TR054,custom/speaker_05/entity/CUS_S05_TR054.wav,S05,female,ta-en,transportation_entity,TR054,Booking CAB93721க்கு fare ₹875 ஆகும்.,,
+CUS_S05_TR055,custom/speaker_05/entity/CUS_S05_TR055.wav,S05,female,ta-en,transportation_entity,TR055,Vehicle TN-09-CF-6723 காலை 8:20 மணிக்கு வரும்.,,
+CUS_S05_TR056,custom/speaker_05/entity/CUS_S05_TR056.wav,S05,female,ta-en,transportation_entity,TR056,OTP 7315 driverக்கு சொல்லிட்டு cabல ஏறுங்க.,,
+CUS_S05_TR057,custom/speaker_05/entity/CUS_S05_TR057.wav,S05,female,ta-en,transportation_entity,TR057,Phone number 98400 12345க்கு driver call பண்ணுவார்.,,
+CUS_S05_TR058,custom/speaker_05/entity/CUS_S05_TR058.wav,S05,female,ta-en,transportation_entity,TR058,Airport Terminal 1க்கு 14.8 kilometres distance இருக்கு.,,
+CUS_S05_TR059,custom/speaker_05/entity/CUS_S05_TR059.wav,S05,female,en,transportation_entity,TR059,Your booking ID CAB65027 is confirmed for 9:15 AM.,,
+CUS_S05_TR060,custom/speaker_05/entity/CUS_S05_TR060.wav,S05,female,ta-en,transportation_entity,TR060,TN-22-AB-4589 cab Chennai Central Gate 4க்கு 7:45 PMல வரும்.,,
